@@ -1,2 +1,2 @@
 # drum-kit
-This is a small website of a dice game between two players and it is one of my earliest projects while learning web development
+This is a small website of a drum kit and it is one of my earliest projects while learning web development
